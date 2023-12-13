@@ -16,7 +16,7 @@
         .row
           .col-lg-12
             .cajon.color-secundario.p-4.mb-4(style="background-color:#FFFBE5")
-              p Existen diversos tipos de <strong>comunidades virtuales</strong> inmersas en el ciberespacio. Sin embargo, el enfoque del componente formativo se centrará en tres grandes grupos que favorecen el desarrollo de la gestión de marketing, garantizando una amplia audiencia y facilitando la recolección de contenido para mejorar las campañas de publicidad y la experiencia del cliente con la marca.
+              p Existen diversos tipos de <strong>comunidades virtuales</strong> inmersas en el ciberespacio. Sin embargo, el enfoque del componente formativo se centrará en tres grandes grupos que favorecen el desarrollo de la gestión de <em>marketing,</em> garantizando una amplia audiencia y facilitando la recolección de contenido para mejorar las campañas de publicidad y la experiencia del cliente con la marca.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-10(data-aos="fade-down-right")
@@ -236,7 +236,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>YouTube Keyword Tool</em>
-            p Proporciona datos estadísticos sobre las keyword (palabras clave) para segmentar o dirigir adecuadamente el SEO (posicionamiento en buscadores), con el objetivo de llegar al público de interés.. 
+            p Proporciona datos estadísticos sobre las <em>keyword</em> (palabras clave) para segmentar o dirigir adecuadamente el SEO (posicionamiento en buscadores), con el objetivo de llegar al público de interés.. 
 
           .col-md-6.col-ipad
             figure
@@ -244,7 +244,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>Socialblade</em>
-            p Herramienta que proporciona el ranking de los canales de YouTube, proporciona información sobre el número de seguidores, visualizaciones y videos publicados, adicional a ello permite la comparación paralela hasta de tres cuentas al tiempo.
+            p Herramienta que proporciona el <em>ranking</em> de los canales de YouTube, proporciona información sobre el número de seguidores, visualizaciones y videos publicados, adicional a ello permite la comparación paralela hasta de tres cuentas al tiempo.
 
           .col-md-6.col-ipad
             figure
@@ -266,7 +266,7 @@
               li.mb-0
                 i.fas.fa-circle(style="color:#000")
                 | Recursos para creadores. 
-            p Adicional a lo anterior, ofrece cursos gratuitos para ampliar la audiencia, crear mejor contenido y elaborar estrategias de marketing, todo mediado por niveles bajo, intermedio y avanzado. 
+            p Adicional a lo anterior, ofrece cursos gratuitos para ampliar la audiencia, crear mejor contenido y elaborar estrategias de <em>marketing,</em> todo mediado por niveles bajo, intermedio y avanzado. 
 
           .col-md-6.col-ipad
             figure
@@ -361,7 +361,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/img-14.png', alt='Imagen decorativa')
 
-    p.mb-5 La plataforma proporciona una guía detallada para el correcto uso de <em>WhatsApp Business</em> en sus dos versiones, describiendo paso a paso cómo crear, optimizar, filtrar, compartir y enviar contenido. A continuación, se detallan algunas de las características destacadas de <em>WhatsApp Business:</em>
+    p.mb-5 La plataforma proporciona una guía detallada para el correcto uso de WhatsApp Business en sus dos versiones, describiendo paso a paso cómo crear, optimizar, filtrar, compartir y enviar contenido. A continuación, se detallan algunas de las características destacadas de <em>WhatsApp Business:</em>
 
     TabsC.color-acento-botones.mb-5
       .py-3.py-md-4(titulo="WhatsApp Business Platform")
@@ -373,7 +373,7 @@
           .col-md-6
             h3 WhatsApp Business Platform
             p La API de WhatsApp Business ofrece dos maneras de comunicación para aumentar la interacción con sus clientes a través de la App, los dos formas que se encuentran en la App son: 
-            p <strong>Responder los mensajes que se han recibido de los usuarios:</strong> se caracteriza por usar canales fuera de WhatsApp para el reconocimiento orgánico de la línea de WhatsApp, esto se impulsa mediante el llamado a la acción que se ancla a las páginas web, correos electrónicos, anuncios publicitarios o tienda virtual, donde se sitúa el botón para la comunicación, el mensaje se enviará a la empresa y se parametriza para enviar un mensaje o dejar la opción de escribir un mensaje por parte del usuario. 
+            p <strong>Responder los mensajes que se han recibido de los usuarios:</strong> se caracteriza por usar canales fuera de WhatsApp para el reconocimiento orgánico de la línea de WhatsApp, esto se impulsa mediante el llamado a la acción que se ancla a las páginas <em>web,</em> correos electrónicos, anuncios publicitarios o tienda virtual, donde se sitúa el botón para la comunicación, el mensaje se enviará a la empresa y se parametriza para enviar un mensaje o dejar la opción de escribir un mensaje por parte del usuario. 
             p <strong>Contacta con los clientes que han realizado la suscripción:</strong> estos mensajes se deben tener personalizados, contando con material interactivo, textos o imágenes. 
       
       .py-3.py-md-4(titulo="WhatsApp Business App")
@@ -386,7 +386,7 @@
             h3 WhatsApp Business App
             p Es la aplicación de WhatsApp, solo que tiene un diseño incorporado para las empresas que permite: 
             p <strong>Mensaje de bienvenida personalizado.</strong> 
-            p <strong>Creación de la tienda virtual que contenga:</strong> información de la empresa, logo, horario comercial, sitio web, información de pago, información de productos y algunas referencias de clientes satisfechos.
+            p <strong>Creación de la tienda virtual que contenga:</strong> información de la empresa, logo, horario comercial, sitio <em>web,</em> información de pago, información de productos y algunas referencias de clientes satisfechos.
       
       .py-3.py-md-4(titulo="Branding")
         .row
@@ -395,8 +395,8 @@
               img(src='@/assets/curso/temas/tema1/img-17.png', alt='Texto que describa la imagen')
 
           .col-md-6
-            h3 Branding
-            p La estética de la marca en WhatsApp Business mejora con la visualización del logo, agrega promociones para el sostenimiento de un adecuado background (contenido con fotos y descripción de los productos de la marca).  
+            h3 <em>Branding</em>
+            p La estética de la marca en WhatsApp Business mejora con la visualización del logo, agrega promociones para el sostenimiento de un adecuado <em>background</em> (contenido con fotos y descripción de los productos de la marca).  
       
       .py-3.py-md-4(titulo="Administrar la relación con los clientes")
         .row
@@ -474,13 +474,13 @@
             | <strong>Promocionar su negocio local:</strong> aprovechando la geolocalización y las herramientas de promoción local para llegar a clientes en áreas específicas.
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <strong>Incrementar las ventas online:</strong> utilizando las funciones de comercio electrónico y promociones para impulsar las ventas a través de estas plataformas.
+            | <strong>Incrementar las ventas <em>online:</em></strong> utilizando las funciones de comercio electrónico y promociones para impulsar las ventas a través de estas plataformas.
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
             | <strong>Promocionar su App:</strong> utilizando las redes sociales como un canal para dar a conocer y promocionar aplicaciones.
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <strong>Generar clientes potenciales:</strong> utilizando estrategias de marketing para atraer y retener a nuevos clientes interesados en los productos o servicios ofrecidos.
+            | <strong>Generar clientes potenciales:</strong> utilizando estrategias de <em>marketing</em> para atraer y retener a nuevos clientes interesados en los productos o servicios ofrecidos.
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
             | <strong>Monetizar el contenido:</strong> aprovechando las oportunidades de generar ingresos a través de contenido patrocinado, colaboraciones o ventas directas.
@@ -495,7 +495,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 Cuentas empresariales
-            p Creación de cuentas empresariales guiada por un asistente predeterminado de <em>Instagram.</em> 
+            p Creación de cuentas empresariales guiada por un asistente predeterminado de Instagram. 
 
           .col-md-6.col-ipad
             figure
@@ -563,31 +563,31 @@
     p.mb-5 Además de las redes sociales, que constituyen las comunidades virtuales más conocidas y difundidas, existen otras plataformas que también desempeñan un papel relevante en el ciberespacio. Algunas de estas incluyen:
 
     TabsB.color-acento-botones(style="background-color:#F7F2F2")
-      .py-4.py-md-5(titulo="Blog" :icono="require('@/assets/curso/temas/tema1/decorador-1.svg')")
+      .py-4.py-md-5(titulo="<em>Blog</em>" :icono="require('@/assets/curso/temas/tema1/decorador-1.svg')")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema1/img-28.png', alt='Texto que describa la imagen')
 
           .col-md-6
-            h4 Blog
-            p Son una herramienta importante de interacción, puesto que brindan el beneficio de que la población pueda interactuar mediante comentarios entre la misma población virtual que visita el blog, así como la retroalimentación de los comentarios.
+            h4 <em>Blog</em>
+            p Son una herramienta importante de interacción, puesto que brindan el beneficio de que la población pueda interactuar mediante comentarios entre la misma población virtual que visita el <em>blog,</em> así como la retroalimentación de los comentarios.
             p Esto lo hace una estratégica herramienta de interrelación que le permite a la entidad comercial dirigirse a una audiencia específica (<em>buyer</em> persona) con un tema en particular. 
       
       .py-4.py-md-5(titulo="<em>Insights community</em>" :icono="require('@/assets/curso/temas/tema1/decorador-2.svg')")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema1/img-29.png', alt='Texto que describa la imagen')
 
           .col-md-6
-            h4 Insights community 
+            h4 <em>Insights community</em> 
             p Son una herramienta de investigación comercial o de mercado, en la cual se le permite a la empresa obtener información de un grupo de clientes que son fieles seguidores de las marcas.
-            p Con el objetivo de recopilar la información relevante para mejorar la experiencia del cliente y poder ajustar las campañas de marketing para que sean más eficientes y eficaces. 
+            p Con el objetivo de recopilar la información relevante para mejorar la experiencia del cliente y poder ajustar las campañas de <em>marketing</em> para que sean más eficientes y eficaces. 
       
       .py-4.py-md-5(titulo="Comunidades promotoras de marca" :icono="require('@/assets/curso/temas/tema1/decorador-3.svg')")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema1/img-30.png', alt='Texto que describa la imagen')
 
@@ -597,32 +597,32 @@
       
       .py-4.py-md-5(titulo="<em>Email y email groups</em>" :icono="require('@/assets/curso/temas/tema1/decorador-4.svg')")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema1/img-31.png', alt='Texto que describa la imagen')
 
           .col-md-6
-            h4 Email y email groups
+            h4 <em>Email y email groups</em>
             p Son creados con el propósito de intercambiar información relevante para el equipo de trabajo, en la actualidad un grupo de personas pueden trabajar en el mismo documento sin necesidad de reunirse personalmente, todo ello debido a programas como Google Drive, que permite mediante una carpeta compartida la visualización, el descargue y la modificación de archivos en tiempo real, cambios que evidencian las personas con las cuales se ha compartido el documento en tiempo real.
       
       .py-4.py-md-5(titulo="Gestores de contenido" :icono="require('@/assets/curso/temas/tema1/decorador-5.svg')")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema1/img-32.png', alt='Texto que describa la imagen')
 
           .col-md-6
             h4 Gestores de contenido
-            p Son programas que guían en la creación, la edición y la publicación de contenido, es decir, es un software facilitador de la gestión de contenidos de la comunidad virtual, que no requiere conocimientos avanzados en informática.
+            p Son programas que guían en la creación, la edición y la publicación de contenido, es decir, es un <em>software</em> facilitador de la gestión de contenidos de la comunidad virtual, que no requiere conocimientos avanzados en informática.
       
-      .py-4.py-md-5(titulo="News groups" :icono="require('@/assets/curso/temas/tema1/decorador-6.svg')")
+      .py-4.py-md-5(titulo="<em>News groups</em>" :icono="require('@/assets/curso/temas/tema1/decorador-6.svg')")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema1/img-33.png', alt='Texto que describa la imagen')
 
           .col-md-6
-            h4 News groups
+            h4 <em>News groups</em>
             p Son grupos creados específicamente para compartir noticias y crear interacción directa de la empresa con la comunidad, estos grupos son moderados por un <em>community manager,</em> que media las interacciones y las mantiene presentes en el foco de discusión, en pro de aumentar la audiencia.
 
     Separador 
@@ -677,7 +677,7 @@
               ul.lista-ul.mb-3(style="color:#000 !important")
                 li.mb-0
                   i.fas.fa-circle(style="color:#000")
-                  | Aumentar las visitas a la página web.
+                  | Aumentar las visitas a la página <em>web.</em>
                 li.mb-0
                   i.fas.fa-circle(style="color:#000")
                   | Incrementar el alcance de la publicidad de la marca.
@@ -714,7 +714,7 @@
                   | Linkedin
                 li.mb-0
                   i.fas.fa-circle(style="color:#000")
-                  | Twiter 
+                  | X
                 li.mb-0
                   i.fas.fa-circle(style="color:#000")
                   | Facebook
@@ -960,7 +960,7 @@
         .p-2
           h3.mb-0.ms-3 Guías métricas para Facebook
 
-    p.mb-5 Las métricas que usa Facebook son diferentes para los tipos de publicaciones; sin embargo, tiene características generales para las métricas, estas son el sexo, la edad y la demografía. En la siguiente tabla, se identificarán las métricas para las historias publicadas y los posts. 
+    p.mb-5 Las métricas que usa Facebook son diferentes para los tipos de publicaciones; sin embargo, tiene características generales para las métricas, estas son el sexo, la edad y la demografía. En la siguiente tabla, se identificarán las métricas para las historias publicadas y los <em>posts.</em> 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-12(data-aos="fade-right", alt="En la tabla 2 se muestra la evidencia para las historias publicadas en las estadísticas ofrecidas por Facebook")
@@ -1036,7 +1036,7 @@
                     td(colspan="2")(style="background-color:#F6F6F6") <strong>Impresiones</strong>
                     td(colspan="3")(style="background-color:#F6F6F6") Son las veces que se ha mostrado la publicación en las pantallas, es decir, el número de veces que los usuarios han visto la publicación, esto sirve para determinar el alcance. 
 
-    p.mb-5 En este sentido, se presentarán en orden de importancia las acciones en los posts presentadas anteriormente: 
+    p.mb-5 En este sentido, se presentarán en orden de importancia las acciones en los <em>posts</em> presentadas anteriormente: 
 
     .BGIMG01.p-4.mb-5
       SlyderB.mb-5(:datos="datosSlyder")
@@ -1142,7 +1142,7 @@
             tbody
               tr
                 td(colspan="2")(style="background-color:#F6F6F6") <strong>Interacciones</strong>
-                td(colspan="4")(style="background-color:#F6F6F6") En la sección de historias se pueden añadir sticker para que los seguidores interactúen con la publicación, en las estadísticas de las historias se podrán ver las respuestas de los usuarios. Los tipos de sticker que se encuentran son:
+                td(colspan="4")(style="background-color:#F6F6F6") En la sección de historias se pueden añadir <em>sticker</em> para que los seguidores interactúen con la publicación, en las estadísticas de las historias se podrán ver las respuestas de los usuarios. Los tipos de sticker que se encuentran son:
                   ul.lista-ul.mb-0
                     li.mb-0
                       i.fas.fa-circle(style="color:#33ECE0")
@@ -1167,7 +1167,7 @@
                       | De ubicación.
                     li.mb-0
                       i.fas.fa-circle(style="color:#33ECE0")
-                      | De hashtag.
+                      | De <em>hashtag.</em>
                     li.mb-0
                       i.fas.fa-circle(style="color:#33ECE0")
                       | De clima o música. 
@@ -1326,14 +1326,14 @@ export default {
       {
         titulo: 'Comentarios',
         texto:
-          'Un comentario de más de 5 palabras equivale a 4 me gusta en la página, ahora bien, los comentarios como sticker o con hashtag el algoritmo de Facebook los toma como spam, por lo que es recomendable que en los post se hagan preguntas que incluyan un comentario de más de cuatro palabras, adicional a ello, cuando el usuario realiza un comentario sobre un post este se mostrará en el feed de sus amigos así el usuario no haya compartido la publicación.',
+          'Un comentario de más de 5 palabras equivale a 4 me gusta en la página, ahora bien, los comentarios como <em>sticker</em> o con <em>hashtag</em> el algoritmo de Facebook los toma como <em>spam,</em> por lo que es recomendable que en los <em>post</em> se hagan preguntas que incluyan un comentario de más de cuatro palabras, adicional a ello, cuando el usuario realiza un comentario sobre un <em>post</em> este se mostrará en el <em>feed</em> de sus amigos así el usuario no haya compartido la publicación.',
         imagen: require('@/assets/curso/temas/tema1/img-53.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Reacciones',
         texto:
-          'Una reacción tiene menos valoración que los dos ítem anteriores, puesto que la reacción no evidencia que se haya leído el contenido por parte del usuario; sin embargo, si un usuario reacciona más de dos veces a las publicaciones realizadas por la marca estas aparecerán más seguido en su feed y en el de sus amigos o seguidores.',
+          'Una reacción tiene menos valoración que los dos <em>ítem</em> anteriores, puesto que la reacción no evidencia que se haya leído el contenido por parte del usuario; sin embargo, si un usuario reacciona más de dos veces a las publicaciones realizadas por la marca estas aparecerán más seguido en su <em>feed</em> y en el de sus amigos o seguidores.',
         imagen: require('@/assets/curso/temas/tema1/img-54.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

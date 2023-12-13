@@ -24,7 +24,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2  2.1 Tipos de redes sociales
 
-    p Cuando se habla de redes sociales usualmente se dirige la atención a las plataformas de interacción más usadas como WhatsApp, Facebook, Instagram, Twitter o Tik tok; sin embargo, aunque estas plataformas son las más comunes en la actualidad, para el posicionamiento de la marca se hace indispensable el conocimiento de otro tipo de redes que faciliten la comunicación, la filtración de resultados mediante estadísticas y que permitan el monitoreo del mercado para poder estructurar la gestión de marketing que más se ajuste a los objetivos de la entidad.
+    p Cuando se habla de redes sociales usualmente se dirige la atención a las plataformas de interacción más usadas como WhatsApp, Facebook, Instagram, X o Tik tok; sin embargo, aunque estas plataformas son las más comunes en la actualidad, para el posicionamiento de la marca se hace indispensable el conocimiento de otro tipo de redes que faciliten la comunicación, la filtración de resultados mediante estadísticas y que permitan el monitoreo del mercado para poder estructurar la gestión de marketing que más se ajuste a los objetivos de la entidad.
     p.mb-5 A continuación, algunos ejemplos de tipos de redes sociales:
 
     .BGIMG01.p-5.mb-5
@@ -185,7 +185,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="fade-down-right")
         .cajon.color-primario.p-4(style="background-color:#E3ECF7")
-          p Las empresas pueden beneficiarse significativamente al aprovechar las estadísticas de las redes sociales para orientar sus estrategias de marketing. Al analizar datos demográficos y de comportamiento, las empresas pueden identificar su nicho de mercado, personalizar campañas publicitarias, seleccionar plataformas relevantes, optimizar contenido y alinear sus esfuerzos con objetivos específicos. Además, las estadísticas permiten medir resultados, facilitando ajustes continuos para mejorar la efectividad de las campañas y fortalecer la conexión con la audiencia objetivo.
+          p Las empresas pueden beneficiarse significativamente al aprovechar las estadísticas de las redes sociales para orientar sus estrategias de <em>marketing.</em> Al analizar datos demográficos y de comportamiento, las empresas pueden identificar su nicho de mercado, personalizar campañas publicitarias, seleccionar plataformas relevantes, optimizar contenido y alinear sus esfuerzos con objetivos específicos. Además, las estadísticas permiten medir resultados, facilitando ajustes continuos para mejorar la efectividad de las campañas y fortalecer la conexión con la audiencia objetivo.
 
 
 

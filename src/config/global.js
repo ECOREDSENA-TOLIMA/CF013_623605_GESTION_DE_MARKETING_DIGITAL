@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Gestión integral de comunidades virtuales',
     descripcionCurso:
-      'La comunidad virtual se enmarca como una fuente significativa para la difusión de mensajes a través de técnicas sistemáticas y estrategias de marketing para generar audiencia y comunidad, con el objetivo de aumentar el número de personas alcanzadas con las campañas publicitarias y la obtención de clientes potenciales para la organización.',
+      'La comunidad virtual se enmarca como una fuente significativa para la difusión de mensajes a través de técnicas sistemáticas y estrategias de <em>marketing</em> para generar audiencia y comunidad, con el objetivo de aumentar el número de personas alcanzadas con las campañas publicitarias y la obtención de clientes potenciales para la organización.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -175,7 +175,7 @@ export default {
     {
       termino: '<em>Blog</em>',
       significado:
-        'Sitio web personal que permite la interacción mediante comentarios entre la comunidad.',
+        'Sitio <em>web</em> personal que permite la interacción mediante comentarios entre la comunidad.',
     },
     {
       termino: '<em>Buyer persona</em>',
@@ -224,12 +224,12 @@ export default {
     },
     {
       referencia:
-        'Bernal, M. (2016). Hacia la comprensión del engagement de las audiencias de televisión, modelo conceptual multidimensional desde la comunicación. Palabra Clave, 19(3).',
+        'Bernal, M. (2016). Hacia la comprensión del <em>engagement</em> de las audiencias de televisión, modelo conceptual multidimensional desde la comunicación. Palabra Clave, 19(3).',
       link: 'https://www.redalyc.org/journal/649/64946476005/html/',
     },
     {
       referencia:
-        'Cardona, L. (s.f.). Segmentación y remarketing en redes sociales: ¿cómo hacerlo con éxito? Cyberclick.',
+        'Cardona, L. (s.f.). Segmentación y <em>remarketing</em> en redes sociales: ¿cómo hacerlo con éxito? Cyberclick.',
       link:
         'https://www.cyberclick.es/numerical-blog/segmentacion-y-remarketing-en-redes-sociales-como-hacerlo-con-exito#:~:text=Tenemos%20cuatro%20opciones%20principales%20para,y%20audiencia%20de%20anuncio%20especial',
     },
@@ -275,13 +275,13 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          nombre: 'Norma Constanza Morales Cruz',
+          cargo: 'Responsable de Línea de Producción',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -289,9 +289,40 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Leibniz Huxlay Flórez Guzmán',
+          cargo: 'Experto Temático',
+          centro: 'Regional Tolima - Centro de la Industria y la Construcción',
+        },
+        {
+          nombre: 'Zvi Daniel Grosman Landáez',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Silvia Milena Sequeda Cárdenas',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo de Desarrollo Curricular',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Correctora de Estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Juan Gilberto Giraldo Cortes',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -299,19 +330,39 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'José Jamie Luis Tang Pinzón',
           cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Francisco José Vásquez Suárez',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Storyboard e Ilustración',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animador y Productor Audiovisual',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Animador y Productor Audiovisual',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador y Productor Audiovisual',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Francisco José Vásquez Suárez',
+          cargo: 'Actividad Didáctica',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -319,14 +370,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },

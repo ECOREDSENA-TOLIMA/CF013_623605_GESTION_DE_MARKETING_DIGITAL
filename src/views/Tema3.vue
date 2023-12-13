@@ -24,7 +24,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2  3.1 Tipos de audiencia
 
-    p Cada plataforma proporciona herramientas específicas de segmentación para adaptar las campañas a la audiencia más relevante. Comprender estos tipos de audiencia es esencial para el éxito en estrategias de marketing digital.
+    p Cada plataforma proporciona herramientas específicas de segmentación para adaptar las campañas a la audiencia más relevante. Comprender estos tipos de audiencia es esencial para el éxito en estrategias de <em>marketing</em> digital.
     p.mb-5 La segmentación de audiencias en redes sociales es esencial para personalizar y dirigir eficazmente las campañas publicitarias. A continuación, se detallan algunos tipos de audiencias comunes según diferentes criterios:
 
     .row.justify-content-center.align-items-center.mb-4
@@ -107,7 +107,7 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2  3.3 Conceptualización y contextualización de valoración, la reacción y la interacción de la audiencia
 
-    p.mb-5 La audiencia como anteriormente se ha mencionado es el público al cual va dirigido la campaña de marketing; sin embargo, la valoración, la reacción y la interacción de la audiencia dependen de las estrategias que sean usadas en pro del fortalecimiento del vínculo del cliente con la marca, en este sentido se tienen unas definiciones de reacción, interacción y valoración. 
+    p.mb-5 La audiencia como anteriormente se ha mencionado es el público al cual va dirigido la campaña de <em>marketing;</em> sin embargo, la valoración, la reacción y la interacción de la audiencia dependen de las estrategias que sean usadas en pro del fortalecimiento del vínculo del cliente con la marca, en este sentido se tienen unas definiciones de reacción, interacción y valoración. 
 
     .row.mb-4
       .col-md-7
