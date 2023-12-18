@@ -253,7 +253,7 @@ export default {
     },
     {
       referencia:
-        'Lahidalga, J. (2021). Las últimas tendencias en marketing digital B2B para generar demanda. Ibermática digital.',
+        'Lahidalga, J. (2021). Las últimas tendencias en <em>marketing</em> digital B2B para generar demanda. Ibermática digital.',
       link: 'https://ibermaticadigital.com/tendencias-marketing-digital-b2b/',
     },
     {

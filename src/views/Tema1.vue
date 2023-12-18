@@ -388,7 +388,7 @@
             p <strong>Mensaje de bienvenida personalizado.</strong> 
             p <strong>Creación de la tienda virtual que contenga:</strong> información de la empresa, logo, horario comercial, sitio <em>web,</em> información de pago, información de productos y algunas referencias de clientes satisfechos.
       
-      .py-3.py-md-4(titulo="Branding")
+      .py-3.py-md-4(titulo="<em>Branding</em>")
         .row
           .col-md-6.mb-4.mb-md-0
             figure
@@ -1142,7 +1142,7 @@
             tbody
               tr
                 td(colspan="2")(style="background-color:#F6F6F6") <strong>Interacciones</strong>
-                td(colspan="4")(style="background-color:#F6F6F6") En la sección de historias se pueden añadir <em>sticker</em> para que los seguidores interactúen con la publicación, en las estadísticas de las historias se podrán ver las respuestas de los usuarios. Los tipos de sticker que se encuentran son:
+                td(colspan="4")(style="background-color:#F6F6F6") En la sección de historias se pueden añadir <em>sticker</em> para que los seguidores interactúen con la publicación, en las estadísticas de las historias se podrán ver las respuestas de los usuarios. Los tipos de <em>sticker</em> que se encuentran son:
                   ul.lista-ul.mb-0
                     li.mb-0
                       i.fas.fa-circle(style="color:#33ECE0")
