@@ -75,7 +75,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 Foros
-            p En estos se logra una mayor interacción de la población, puesto que se genera una conversación hilada en un tema específico, lo que permite el surgimiento de la duda, la discusión y la aclaración de inquietudes, todo este contenido va mediado y directamente relacionado entre el mediador del foro de discusión y la población que participa en ella. Una estrategia de interacción es crear un foro de preguntas, el cual se puede llamar ¿Qué quiere saber? o Haga una pregunta. 
+            p En estos se logra una mayor interacción de la población, puesto que se genera una conversación hilada en un tema específico, lo que permite el surgimiento de la duda, la discusión y la aclaración de inquietudes, todo este contenido va mediado y directamente relacionado entre el mediador del foro de discusión y la población que participa en ella. Una estrategia de interacción es crear un foro de preguntas, el cual se puede llamar ¿Qué quiere saber? O haga una pregunta. 
 
           .col-md-6.col-ipad
             figure

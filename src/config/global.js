@@ -152,21 +152,21 @@ export default {
     {
       tema: 'Comunidad virtual',
       referencia:
-        'Mínguez, M. y Hernán, C. (2010). Las comunidades virtuales como nuevas formas de relación social. Elementos para el análisis. Espéculo. Revista de Estudios Literarios. Universidad Complutense de Madrid. https://biblioteca.org.ar/libros/151845.pdf',
+        'Mínguez, M. y Hernán, C. (2010). Las comunidades virtuales como nuevas formas de relación social. Elementos para el análisis. Espéculo. Revista de Estudios Literarios. Universidad Complutense de Madrid.',
       tipo: 'Documentos en línea',
       link: 'https://biblioteca.org.ar/libros/151845.pdf',
     },
     {
       tema: 'Audiencia',
       referencia:
-        'Masip, P. y Suau, J. (2014). Audiencias activas y modelos de participación en los medios de comunicación españoles. Hipertext.net [online], 12. https://raco.cat/index.php/Hipertext/article/view/274308/364578',
+        'Masip, P. y Suau, J. (2014). Audiencias activas y modelos de participación en los medios de comunicación españoles. Hipertext.net [online], 12.',
       tipo: 'Documentos en línea',
       link: 'https://raco.cat/index.php/Hipertext/article/view/274308/364578',
     },
     {
       tema: 'Audiencia',
       referencia:
-        'Bernal, M. (2016). Hacia la comprensión del engagement de las audiencias de televisión, modelo conceptual multidimensional desde la comunicación. Palabra Clave, 19(3). https://www.redalyc.org/journal/649/64946476005/html/',
+        'Bernal, M. (2016). Hacia la comprensión del engagement de las audiencias de televisión, modelo conceptual multidimensional desde la comunicación. Palabra Clave, 19(3).',
       tipo: 'Documentos en línea',
       link: 'https://www.redalyc.org/journal/649/64946476005/html/',
     },

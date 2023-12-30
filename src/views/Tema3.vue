@@ -12,7 +12,7 @@
         figure
             img(src='@/assets/curso/temas/tema3/img-1.svg', alt='')
       .col-md-7
-        p En el contexto de la gestión de <em>marketing</em> digital, la audiencia se define como la población específica de interés para la entidad. La identificación del <em>buyer</em> persona, basada en análisis estadísticos y estudios previos del nicho de mercado, constituye un elemento crucial para comprender y definir la audiencia a la que se dirigirán las campañas . 
+        p En el contexto de la gestión de <em>marketing</em> digital, la audiencia se define como la población específica de interés para la entidad. La identificación del <em>buyer</em> persona, basada en análisis estadísticos y estudios previos del nicho de mercado, constituye un elemento crucial para comprender y definir la audiencia a la que se dirigirán las campañas. 
         p El propósito del estudio de la audiencia es segmentar de manera efectiva la población, permitiendo la implementación de campañas publicitarias dirigidas y el establecimiento de vínculos significativos con los clientes potenciales. En este contexto, se busca la creación de un "Club de fans empresarial" mediante estrategias específicas de <em>marketing</em> digital, con un enfoque especial en las redes sociales, plataformas ampliamente utilizadas por la audiencia objetivo.
         .row
           .col-lg-12
@@ -32,14 +32,14 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Audiencias para redes sociales como Facebook, Instagram y TikTok</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema3/img-2-1.svg', alt='En la figura 2 se muestran las audiencias para redes sociales como Facebook, Instagram y TokTok.')
+          img.mb-3(src='@/assets/curso/temas/tema3/img-2-1.svg', alt='En la figura 2 se muestran las audiencias para redes sociales como Facebook, Instagram y TikTok.')
 
     .row.justify-content-center.align-items-center.mt-5.mb-4
       .col-10.col-md-10.col-lg-7.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Audiencias para redes sociales como Facebook, Instagram y TikTok</em>
         figure
-          img(src='@/assets/curso/temas/tema3/img-2-2.svg', alt='En la figura 2 se muestran las audiencias para redes sociales como Facebook, Instagram y TokTok.') 
+          img(src='@/assets/curso/temas/tema3/img-2-2.svg', alt='En la figura 2 se muestran las audiencias para redes sociales como Facebook, Instagram y TikTok.') 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
@@ -107,7 +107,7 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2  3.3 Conceptualización y contextualización de valoración, la reacción y la interacción de la audiencia
 
-    p.mb-5 La audiencia como anteriormente se ha mencionado es el público al cual va dirigido la campaña de <em>marketing;</em> sin embargo, la valoración, la reacción y la interacción de la audiencia dependen de las estrategias que sean usadas en pro del fortalecimiento del vínculo del cliente con la marca, en este sentido se tienen unas definiciones de reacción, interacción y valoración. 
+    p.mb-5 La audiencia como anteriormente se ha mencionado, es el público al cual va dirigido la campaña de <em>marketing;</em> sin embargo, la valoración, la reacción y la interacción de la audiencia dependen de las estrategias que sean usadas en pro del fortalecimiento del vínculo del cliente con la marca, en este sentido se tienen unas definiciones de reacción, interacción y valoración. 
 
     .row.mb-4
       .col-md-7

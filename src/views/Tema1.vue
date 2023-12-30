@@ -25,7 +25,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-2.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Las <strong>redes sociales</strong> son comunidades que se forman con el objetivo de entrelazar comunicaciones, crear nuevas relaciones por ocio o entretenimiento, y el intercambio de información. No obstante, este tipo de comunidad virtual puede utilizarse como mecanismo de difusión de información en beneficio comercial, es decir, en <em>marketing</em> digital. Esto agrega valor al posicionamiento de la marca, la publicación de ofertas, el alcance a un nicho de mercado más amplio y la rápida difusión de información mediante campañas publicitarias en redes sociales .
+            p.mb-0 Las <strong>redes sociales</strong> son comunidades que se forman con el objetivo de entrelazar comunicaciones, crear nuevas relaciones por ocio o entretenimiento, y el intercambio de información. No obstante, este tipo de comunidad virtual puede utilizarse como mecanismo de difusión de información en beneficio comercial, es decir, en <em>marketing</em> digital. Esto agrega valor al posicionamiento de la marca, la publicación de ofertas, el alcance a un nicho de mercado más amplio y la rápida difusión de información mediante campañas publicitarias en redes sociales.
 
     p.mb-5 Las redes sociales desempeñan un papel crucial para las empresas en la publicidad digital, ya que facilitan la comunicación debido a su accesibilidad, inmediatez y reducción de la distancia. Además, es necesario que la empresa identifique las redes sociales más utilizadas para cumplir sus objetivos empresariales mediante técnicas sistemáticas y estrategias de <em>marketing.</em>
 
@@ -220,7 +220,7 @@
         figure
             img(src='@/assets/curso/temas/tema1/img-4.png', alt='')
       .col-md-10
-        p <strong>YouTube,</strong> por su parte, se posiciona como la segunda plataforma con más usuarios activos después de Facebook. En la comunidad virtual, el video <em>marketing</em> ha tomado gran relevancia, ya que las personas tienden a captar mejor la publicidad en video en comparación con la que deben leer. Así, YouTube se consolida como el rey del video <em>marketing,</em> con canales que generan ingresos anuales superiores a los 100.000 dólares. Para las empresas, representa una plataforma de gran impacto y alcance en la población 
+        p <strong>YouTube,</strong> por su parte, se posiciona como la segunda plataforma con más usuarios activos después de Facebook. En la comunidad virtual, el video <em>marketing</em> ha tomado gran relevancia, ya que las personas tienden a captar mejor la publicidad en video en comparación con la que deben leer. Así, YouTube se consolida como el rey del video <em>marketing,</em> con canales que generan ingresos anuales superiores a los 100.000 dólares. Para las empresas, representa una plataforma de gran impacto y alcance en la población.
         p En este sentido, hay herramientas dentro de la plataforma que ayudan con el diseño, la generación, la publicación y la segmentación del público en pro del cumplimiento del objetivo empresarial; unas de las herramientas que contiene YouTube son:
 
     .BGIMG01.p-5.mb-5
@@ -236,7 +236,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>YouTube Keyword Tool</em>
-            p Proporciona datos estadísticos sobre las <em>keyword</em> (palabras clave) para segmentar o dirigir adecuadamente el SEO (posicionamiento en buscadores), con el objetivo de llegar al público de interés.. 
+            p Proporciona datos estadísticos sobre las <em>keyword</em> (palabras clave) para segmentar o dirigir adecuadamente el SEO (posicionamiento en buscadores), con el objetivo de llegar al público de interés.
 
           .col-md-6.col-ipad
             figure
@@ -294,7 +294,7 @@
               li.mb-0
                 i.fas.fa-circle(style="color:#000")
                 | Ubicación. 
-            p Los datos estadísticos son una fuente importante de información, puesto que permite a la empresa saber el alcance y la optimización de los videos, para así poder tomar decisiones y generar estrategias de marketing acordes a los objetivos de la empresa. 
+            p Los datos estadísticos son una fuente importante de información, puesto que permite a la empresa saber el alcance y la optimización de los videos, para así poder tomar decisiones y generar estrategias de <em>marketing</em> acordes a los objetivos de la empresa. 
 
           .col-md-6.col-ipad
             figure
@@ -372,7 +372,7 @@
 
           .col-md-6
             h3 WhatsApp Business Platform
-            p La API de WhatsApp Business ofrece dos maneras de comunicación para aumentar la interacción con sus clientes a través de la App, los dos formas que se encuentran en la App son: 
+            p La API de WhatsApp Business ofrece dos maneras de comunicación para aumentar la interacción con sus clientes a través de la App, las dos formas que se encuentran en la App son: 
             p <strong>Responder los mensajes que se han recibido de los usuarios:</strong> se caracteriza por usar canales fuera de WhatsApp para el reconocimiento orgánico de la línea de WhatsApp, esto se impulsa mediante el llamado a la acción que se ancla a las páginas <em>web,</em> correos electrónicos, anuncios publicitarios o tienda virtual, donde se sitúa el botón para la comunicación, el mensaje se enviará a la empresa y se parametriza para enviar un mensaje o dejar la opción de escribir un mensaje por parte del usuario. 
             p <strong>Contacta con los clientes que han realizado la suscripción:</strong> estos mensajes se deben tener personalizados, contando con material interactivo, textos o imágenes. 
       
@@ -551,7 +551,7 @@
                 | <strong>App de Instagram:</strong> se escoge la publicación que se quiere promocionar, se utilizan las herramientas anteriores y se empieza el seguimiento de la circulación del anuncio.
               li.mb-0
                 i.fas.fa-circle(style="color:#000")
-                | <strong>Administrador de anuncios:</strong> permite modificar, configurar y consultar la información, este recurso se encuentra disponible para celulares y PC
+                | <strong>Administrador de anuncios:</strong> permite modificar, configurar y consultar la información, este recurso se encuentra disponible para celulares y PC.
               li.mb-0
                 i.fas.fa-circle(style="color:#000")
                 | <strong>Socios de Instagram:</strong> realizan toda la gestión de los anuncios (compra, creación y entrega de contenido), Instagram verifica que los socios sean idóneos para la gestión de los anuncios. 
@@ -642,7 +642,7 @@
           .row.p-3(x="37.5%" y="7%" tooltip="" numero="1")
             .col-md-6.col-12.texto-negro
               h5.mb-2.texto-negro Paso 1: Preguntas iniciales
-              p(style="color:#000 !important") Según GRANTHAM se debe perseguir el objetivo de satisfacer las necesidades psicológicas de la comunidad virtual, para ello se requiere que se realicen las siguientes preguntas que el cliente requiere resolver:
+              p(style="color:#000 !important") Según GRANTHAM, se debe perseguir el objetivo de satisfacer las necesidades psicológicas de la comunidad virtual, para ello se requiere que se realicen las siguientes preguntas que el cliente requiere resolver:
               ul.lista-ul.mb-3(style="color:#000 !important")
                 li.mb-0
                   i.fas.fa-circle(style="color:#000")
@@ -707,7 +707,7 @@
           .row.p-3(x="92%" y="68%" tooltip="" numero="5")
             .col-md-6.col-12.texto-negro
               h5.mb-2.texto-negro Paso 5: Canal según objetivo 
-              p(style="color:#000 !important") De acuerdo con el objetivo de la empresa se hace necesario establecer el canal de comercio, pues no todas las redes sociales se usan para el mismo objetivo, por ejemplo, algunas redes sociales según el objetivo de la empresa pueden ser:
+              p(style="color:#000 !important") De acuerdo con el objetivo de la empresa, se hace necesario establecer el canal de comercio, pues no todas las redes sociales se usan para el mismo objetivo, por ejemplo, algunas redes sociales según el objetivo de la empresa pueden ser:
               ul.lista-ul.mb-3(style="color:#000 !important")
                 li.mb-0
                   i.fas.fa-circle(style="color:#000")
@@ -753,7 +753,7 @@
           .row.p-3(x="10%" y="68%" tooltip="" numero="9")
             .col-md-6.col-12.texto-negro
               h5.mb-2.texto-negro Paso 9: Contenido de calidad
-              p(style="color:#000 !important") Crear contenido de calidad con buenas promociones y de alto contenido viral. Para esta estrategia es necesario enmarcar una relación clara entre el tiempo de contenido y los contenidos tanto de promociones como de interacción, es decir; las promociones que publica la marca como las noticias de interés, que según el nicho de mercado al que se está segmentando sean de interés.
+              p(style="color:#000 !important") Crear contenido de calidad con buenas promociones y de alto contenido viral. Para esta estrategia es necesario enmarcar una relación clara entre el tiempo de contenido y los contenidos, tanto de promociones como de interacción, es decir; las promociones que publica la marca, como las noticias de interés, que según el nicho de mercado al que se está segmentando sean de interés.
           
             .col-md-6.col-12
               figure
@@ -875,7 +875,7 @@
                     mfrac
                       mi.italic ROI<sub></sub> = 75 %&nbsp;
 
-        p <strong>Interpretación:</strong> un ROI del 75% indica que, por cada peso invertido en la campaña publicitaria, la empresa obtuvo un retorno del 75%. Expresado como porcentaje, significa que la inversión generó un 75% de ganancia adicional sobre el costo inicial de la campaña. Este resultado sugiere que la campaña fue rentable y generó un retorno positivo para la empresa.
+        p <strong>Interpretación:</strong> un ROI del 75 % indica que, por cada peso invertido en la campaña publicitaria, la empresa obtuvo un retorno del 75 %. Expresado como porcentaje, significa que la inversión generó un 75 % de ganancia adicional sobre el costo inicial de la campaña. Este resultado sugiere que la campaña fue rentable y generó un retorno positivo para la empresa.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10(data-aos="fade-down-right")
@@ -948,7 +948,7 @@
           br
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <strong><em>Stilus fórum:</em></strong> filtra automáticamente los mensajes de acuerdo con la clasificación de contenido, basa su funcionamiento en el <em>business intelligence.</em>
+            | <strong><em>Stilus forum:</em></strong> filtra automáticamente los mensajes de acuerdo con la clasificación de contenido, basa su funcionamiento en el <em>business intelligence.</em>
 
     p.mb-5 Las plataformas de redes sociales proporcionan métricas internas que son fundamentales para evaluar el rendimiento de las campañas publicitarias directamente dentro de la aplicación. Estas métricas ofrecen <em>insights</em> valiosos sobre cómo interactúan los usuarios con el contenido, la efectividad de la publicidad y el impacto general en la audiencia. Algunas de las métricas comunes que brindan estas plataformas incluyen:
 
@@ -975,7 +975,7 @@
             tbody
               tr
                 td(colspan="2")(style="background-color:#F6F6F6") <strong>Veces que han visualizado la(s) historia(s)</strong>
-                td(colspan="4")(style="background-color:#F6F6F6") Número de veces que han visto la(s) historias(s), esta estadística se encuentra disponible hasta 28 días después de haber publicado la historia y que la historia está visible por 24 horas.
+                td(colspan="4")(style="background-color:#F6F6F6") Número de veces que han visto la(s) historia(s), esta estadística se encuentra disponible hasta 28 días después de haber publicado la historia y que la historia está visible por 24 horas.
               tr
                 td(colspan="2") <strong>Acciones realizadas en las historias</strong>
                 td(colspan="4") En este apartado Facebook brinda las estadísticas de todas las acciones que los usuarios han realizado en la historia publicada como:
@@ -1197,9 +1197,6 @@
                 td(colspan="2") <strong>Clic o enlace a la página</strong>
                 td(colspan="4") Estadística que se encuentra disponible solo cuando se superan los 10.000 seguidores y se evidencia el número de personas que han deslizado la información en la historia para ser dirigidos a la página web o enlace que se ha compartido en esta. 
               tr
-                td(colspan="2")(style="background-color:#F6F6F6") <strong>Abandonos</strong>
-                td(colspan="4")(style="background-color:#F6F6F6") El número de veces que los seguidores han tocado la historia para abandonarla.
-              tr
                 td(colspan="2") <strong>Respuestas</strong>
                 td(colspan="4") Esta estadística evidencia el número de mensajes que se han recibido a través de la publicación. 
               tr
@@ -1326,7 +1323,7 @@ export default {
       {
         titulo: 'Comentarios',
         texto:
-          'Un comentario de más de 5 palabras equivale a 4 me gusta en la página, ahora bien, los comentarios como <em>sticker</em> o con <em>hashtag</em> el algoritmo de Facebook los toma como <em>spam,</em> por lo que es recomendable que en los <em>post</em> se hagan preguntas que incluyan un comentario de más de cuatro palabras, adicional a ello, cuando el usuario realiza un comentario sobre un <em>post</em> este se mostrará en el <em>feed</em> de sus amigos así el usuario no haya compartido la publicación.',
+          'Un comentario de más de 5 palabras equivale a 4 me gusta en la página, ahora bien, los comentarios como <em>sticker</em> o con <em>hashtag,</em> el algoritmo de Facebook los toma como <em>spam,</em> por lo que es recomendable que en los <em>post</em> se hagan preguntas que incluyan un comentario de más de cuatro palabras, adicional a ello, cuando el usuario realiza un comentario sobre un <em>post</em> este se mostrará en el <em>feed</em> de sus amigos así el usuario no haya compartido la publicación.',
         imagen: require('@/assets/curso/temas/tema1/img-53.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
