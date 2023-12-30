@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="189" height="189" viewBox="0 0 189 189">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_385638" data-name="Rectángulo 385638" width="107.643" height="95.075" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.084" cy="0.802" r="1.182" gradientTransform="matrix(0.469, -0.883, 0.769, 0.408, -0.572, 0.549)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fec053"/>
+      <stop offset="0.327" stop-color="#f2203e"/>
+      <stop offset="0.648" stop-color="#b729a8"/>
+      <stop offset="1" stop-color="#5342d6"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_1018660" data-name="Grupo 1018660" transform="translate(-706 -15748)">
+    <g id="Grupo_1018645" data-name="Grupo 1018645" transform="translate(-44 14837)">
+      <g id="Grupo_161158" data-name="Grupo 161158" transform="translate(750 911)">
+        <circle id="Elipse_1142" data-name="Elipse 1142" cx="94.5" cy="94.5" r="94.5" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Grupo_1018651" data-name="Grupo 1018651" transform="translate(747 15795)">
+      <g id="Grupo_1018650" data-name="Grupo 1018650" clip-path="url(#clip-path)">
+        <path id="Trazado_841833" data-name="Trazado 841833" d="M91.531,77.519H74.363a15.73,15.73,0,0,0-6.042,3.81C64.95,84.937,60.437,90,57.347,93.487a4.707,4.707,0,0,1-7.051,0c-3.09-3.492-7.6-8.551-10.975-12.158a15.727,15.727,0,0,0-6.042-3.81H16.112A16.112,16.112,0,0,1,0,61.407v-45.3A16.112,16.112,0,0,1,16.112,0H91.531a16.112,16.112,0,0,1,16.112,16.112v45.3A16.112,16.112,0,0,1,91.531,77.519" fill="url(#radial-gradient)"/>
+        <path id="Trazado_841834" data-name="Trazado 841834" d="M126.516,55.618H100.857a1.41,1.41,0,0,0-1.409,1.409V86.72a1.409,1.409,0,0,0,1.409,1.413,1.424,1.424,0,0,0,1-.422L113.685,75.67l11.826,12.041a1.426,1.426,0,0,0,1.005.422,1.413,1.413,0,0,0,1.409-1.413V57.027a1.412,1.412,0,0,0-1.409-1.409" transform="translate(-59.865 -33.481)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
