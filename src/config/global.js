@@ -235,9 +235,8 @@ export default {
     },
     {
       referencia:
-        'De Roa, S. (2020). Estrategias de comunicación y comunidades virtuales. Evaluación y análisis de sitios web de educación medioambiental en Colombia, Costa Rica y Brasil. Doctoral dissertation, Universitat Ramon Llull. Emagister, B. (2021). Comunidad virtual: secretos para aumentar la participación. Blog Emagister.',
-      link:
-        'https://www.emagister.com/blog/comunidad-virtual-secretos-para-aumentar-la-participacion/',
+        'Roa, S. (2020). Estrategias de comunicación y comunidades virtuales: Evaluación y análisis de sitios web de educación medioambiental en Colombia, Costa Rica y Brasil (Tesis doctoral). Universitat Ramon Llull.',
+      link: '',
     },
     {
       referencia:
