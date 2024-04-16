@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="189" height="189" viewBox="0 0 189 189">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_385639" data-name="Rectángulo 385639" width="107.5" height="94.949" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.101" cy="0.788" r="1.212" gradientTransform="matrix(0.445, -0.895, 0.771, 0.384, -0.552, 0.576)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fec053"/>
+      <stop offset="0.327" stop-color="#f2203e"/>
+      <stop offset="0.648" stop-color="#b729a8"/>
+      <stop offset="1" stop-color="#5342d6"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_1018661" data-name="Grupo 1018661" transform="translate(-706 -15984)">
+    <g id="Grupo_1018647" data-name="Grupo 1018647" transform="translate(-44 14933)">
+      <g id="Grupo_161157" data-name="Grupo 161157" transform="translate(750 1051)">
+        <circle id="Elipse_1146" data-name="Elipse 1146" cx="94.5" cy="94.5" r="94.5" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Grupo_1018653" data-name="Grupo 1018653" transform="translate(747 16031)">
+      <g id="Grupo_1018652" data-name="Grupo 1018652" clip-path="url(#clip-path)">
+        <path id="Trazado_841835" data-name="Trazado 841835" d="M91.41,77.416H74.265a15.709,15.709,0,0,0-6.034,3.805c-3.368,3.6-7.874,8.654-10.961,12.142a4.7,4.7,0,0,1-7.042,0c-3.086-3.488-7.593-8.539-10.961-12.142a15.706,15.706,0,0,0-6.034-3.805H16.091A16.09,16.09,0,0,1,0,61.326V16.09A16.09,16.09,0,0,1,16.091,0H91.41A16.09,16.09,0,0,1,107.5,16.09V61.326a16.09,16.09,0,0,1-16.09,16.09" fill="url(#radial-gradient)"/>
+        <path id="Trazado_841836" data-name="Trazado 841836" d="M126.042,66.157a1.159,1.159,0,0,1-.019.214c0,.018,0,.037-.008.055a1.112,1.112,0,0,1-.094.253l-.005.018L109.984,96.836a1.185,1.185,0,0,1-1.2.612,1.449,1.449,0,0,1-.145-.028,1.2,1.2,0,0,1-.875-.862L103.7,80.524l9.435-7.546-11.3,4.4-11-10.247a1.158,1.158,0,0,1-.3-1.275,1.174,1.174,0,0,1,1.094-.732l33.214-.14a.146.146,0,0,1,.028,0,1.154,1.154,0,0,1,.279.034s0,0,0,0a1.212,1.212,0,0,1,.254.1c.023.012.044.025.065.037a1.231,1.231,0,0,1,.169.122.543.543,0,0,1,.058.052,1.093,1.093,0,0,1,.154.187c.006.008.016.016.023.026s0,0,0,.007,0,0,0,0a1.158,1.158,0,0,1,.112.245c.008.024.012.047.018.071a1.186,1.186,0,0,1,.036.2c0,.027,0,.053,0,.081" transform="translate(-54.494 -39.154)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
