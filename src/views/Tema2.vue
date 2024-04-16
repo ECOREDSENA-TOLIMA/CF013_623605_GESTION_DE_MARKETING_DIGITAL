@@ -24,7 +24,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2  2.1 Tipos de redes sociales
 
-    p Cuando se habla de redes sociales usualmente se dirige la atención a las plataformas de interacción más usadas como WhatsApp, Facebook, Instagram, X o Tik tok; sin embargo, aunque estas plataformas son las más comunes en la actualidad, para el posicionamiento de la marca se hace indispensable el conocimiento de otro tipo de redes que faciliten la comunicación, la filtración de resultados mediante estadísticas y que permitan el monitoreo del mercado para poder estructurar la gestión de marketing que más se ajuste a los objetivos de la entidad.
+    p Cuando se habla de redes sociales usualmente se dirige la atención a las plataformas de interacción más usadas como WhatsApp, Facebook, Instagram, X o Tik Tok; sin embargo, aunque estas plataformas son las más comunes en la actualidad, para el posicionamiento de la marca se hace indispensable el conocimiento de otro tipo de redes que faciliten la comunicación, la filtración de resultados mediante estadísticas y que permitan el monitoreo del mercado para poder estructurar la gestión de #[em marketing] que más se ajuste a los objetivos de la entidad.
     p.mb-5 A continuación, algunos ejemplos de tipos de redes sociales:
 
     .BGIMG01.p-5.mb-5

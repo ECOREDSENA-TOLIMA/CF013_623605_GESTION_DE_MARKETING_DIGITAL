@@ -54,7 +54,7 @@
                   ul.lista-ul.mb-3
                     li.mb-4
                       i.fas.fa-circle(style="color:#000")
-                      | <strong><em>Fanpage.</em></strong>
+                      p.mb-0 <strong><em>Fanpage.</em></strong>
                     li.mb-4
                       i.fas.fa-circle(style="color:#000")
                       | Grupos.
@@ -78,13 +78,13 @@
                       | Informes interactivos.
                     li.mb-4
                       i.fas.fa-circle(style="color:#000")
-                      | <strong><em>Meta business suite.</em></strong>
+                      p.mb-0 <strong><em>Meta business suite.</em></strong>
                     li.mb-4
                       i.fas.fa-circle(style="color:#000")
-                      | <strong><em>Marketplace.</em></strong>
+                      p.mb-0 <strong><em>Marketplace.</em></strong>
                     li.mb-4
                       i.fas.fa-circle(style="color:#000")
-                      | <strong><em>Reels.</em></strong>
+                      p.mb-0 <strong><em>Reels.</em></strong>
 
                 td
                   ul.lista-ul.mb-3
@@ -93,7 +93,7 @@
                       | Herramientas de experimentación.
                     li.mb-4
                       i.fas.fa-circle(style="color:#000")
-                      | Video <strong><em>in stream</em></strong> de Facebook.
+                      p.mb-0 Video <strong><em>in stream</em></strong> de Facebook.
                     li.mb-4
                       i.fas.fa-circle(style="color:#000")
                       | Edición de anuncios.
@@ -117,10 +117,10 @@
                       | Segmentación de los anuncios.
                     li.mb-4
                       i.fas.fa-circle(style="color:#000")
-                      | Herramientas de <strong><em>insights.</em></strong>
+                      p.mb-0 Herramientas de <strong><em>insights.</em></strong>
                     li.mb-4
                       i.fas.fa-circle(style="color:#000")
-                      | Tienda <strong><em>online</em></strong> interactiva.
+                      p.mb-0 Tienda <strong><em>online</em></strong> interactiva.
 
                 td 
                   ul.lista-ul.mb-3
@@ -132,7 +132,7 @@
                       | Creación de podcast.
                     li.mb-4
                       i.fas.fa-circle(style="color:#000")
-                      | Acciones en la página web.
+                      p.mb-0 Acciones en la página #[b web].
                     li.mb-4
                       i.fas.fa-circle(style="color:#000")
                       | Artículos instantáneos.
@@ -173,7 +173,7 @@
                           | Herramientas de diseño.
                         li 
                           i.lista-ul__vineta
-                          | Streaming de videojuegos.
+                          p.mb-0 #[i Streaming] de videojuegos.
                         li 
                           i.lista-ul__vineta
                           | Salas de audio en vivo.
@@ -227,7 +227,7 @@
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 <em>YouTube Creator Hub</em>
+            h3 YouTube Creator Hub
             p Permite mejorar los videos, establecer audiencia y hacer crecer el canal.
 
           .col-md-6.col-ipad
@@ -235,7 +235,7 @@
               img(src='@/assets/curso/temas/tema1/img-5.png', style="width: 450px" ,alt='').m-auto
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 <em>YouTube Keyword Tool</em>
+            h3 YouTube Keyword Tool
             p Proporciona datos estadísticos sobre las <em>keyword</em> (palabras clave) para segmentar o dirigir adecuadamente el SEO (posicionamiento en buscadores), con el objetivo de llegar al público de interés.
 
           .col-md-6.col-ipad
@@ -251,7 +251,7 @@
               img(src='@/assets/curso/temas/tema1/img-7.png', style="width: 450px" ,alt='').m-auto
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 <em>YouTube Creators Academy</em>
+            h3 YouTube Creators Academy
             p Esta herramienta de YouTube tiene varias secciones, que son: 
             ul.lista-ul.mb-3
               li.mb-0
@@ -273,7 +273,7 @@
               img(src='@/assets/curso/temas/tema1/img-8.png', style="width: 450px" ,alt='').m-auto
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 <em>YouTube Analytics</em>
+            h3 YouTube Analytics
             p Proporciona los datos estadísticos del video que se publicó en la plataforma, dentro de los datos estadísticos que proporciona la herramienta están: 
             ul.lista-ul.mb-3
               li.mb-0
@@ -301,7 +301,7 @@
               img(src='@/assets/curso/temas/tema1/img-9.png', style="width: 450px" ,alt='').m-auto
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 <em>YouTube Studio</em>
+            h3 YouTube Studio
             p En esta sección de YouTube hay diferentes herramientas para la edición de los videos como: 
             ul.lista-ul.mb-3
               li.mb-0
@@ -327,7 +327,7 @@
               img(src='@/assets/curso/temas/tema1/img-10.png', style="width: 450px" ,alt='').m-auto
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 <em>Autocompletar de YouTube</em>
+            h3 Autocompletar de YouTube
             p Es un buscador que permite que con una palabra clave, la empresa o persona encargada de la investigación para la segmentación del mercado le dé autocompletar y aparecerán las búsquedas de los usuarios, lo que sirve para crear contenido según las búsquedas que han realizado.
 
           .col-md-6.col-ipad
@@ -335,7 +335,7 @@
               img(src='@/assets/curso/temas/tema1/img-11.png', style="width: 450px" ,alt='').m-auto
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 <em>Superchat de YouTube</em>
+            h3 Superchat de YouTube
             p Esta sección permite monetizar el canal y tener una mayor interacción con los seguidores de la marca a través de transmisiones en vivo.
 
           .col-md-6.col-ipad
@@ -343,7 +343,7 @@
               img(src='@/assets/curso/temas/tema1/img-12.png', style="width: 450px" ,alt='').m-auto
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 <em>YouTube Earnings Calculator</em>
+            h3 YouTube Earnings Calculator
             p Bajo cálculos de CPM permite calcular cuánto dinero está ganando un usuario en YouTube.
 
           .col-md-6.col-ipad
@@ -355,13 +355,13 @@
         .cajon.color-secundario.p-4(style="background-color:#FFFBE5")(data-aos="flip-up")
           .row.justify-content-center.align-items-center 
             .col-md-8.mb-3
-              p <strong>WhatsApp</strong> se encuentra entre las tres plataformas más utilizadas a nivel mundial, siendo el tercer medio de comunicación más utilizado para el intercambio de información. En respuesta a esta tendencia, se ha creado <em>WhatsApp Business,</em> una herramienta que no solo optimiza, sino que también amplía las comunicaciones e interactúa de manera más efectiva con los clientes.
+              p <strong>WhatsApp</strong> se encuentra entre las tres plataformas más utilizadas a nivel mundial, siendo el tercer medio de comunicación más utilizado para el intercambio de información. En respuesta a esta tendencia, se ha creado WhatsApp Business, una herramienta que no solo optimiza, sino que también amplía las comunicaciones e interactúa de manera más efectiva con los clientes.
 
             .col-md-3
               figure
                 img(src='@/assets/curso/temas/tema1/img-14.png', alt='Imagen decorativa')
 
-    p.mb-5 La plataforma proporciona una guía detallada para el correcto uso de WhatsApp Business en sus dos versiones, describiendo paso a paso cómo crear, optimizar, filtrar, compartir y enviar contenido. A continuación, se detallan algunas de las características destacadas de <em>WhatsApp Business:</em>
+    p.mb-5 La plataforma proporciona una guía detallada para el correcto uso de WhatsApp Business en sus dos versiones, describiendo paso a paso cómo crear, optimizar, filtrar, compartir y enviar contenido. A continuación, se detallan algunas de las características destacadas de WhatsApp Business:
 
     TabsC.color-acento-botones.mb-5
       .py-3.py-md-4(titulo="WhatsApp Business Platform")
@@ -421,7 +421,7 @@
             p <strong>Respuestas rápidas:</strong> permite crear atajos a preguntas concurrentes. 
             p <strong>Etiquetas:</strong> filtra las conversaciones importantes para revisar con mayor eficiencia los mensajes que se deben responder. 
 
-    p.mb-5 Las empresas pueden obtener diversos beneficios al utilizar WhatsApp <em>Business,</em> incluyendo la captación de nuevos clientes y puntos de entrada a WhatsApp de manera gratuita. Estos accesos directos se logran mediante:
+    p.mb-5 Las empresas pueden obtener diversos beneficios al utilizar WhatsApp Business, incluyendo la captación de nuevos clientes y puntos de entrada a WhatsApp de manera gratuita. Estos accesos directos se logran mediante:
 
     .tarjeta.tarjeta.p-4.mt-4.mb-5(style="background-color:#E3ECF7")(data-aos="flip-up")
       .row.justify-content-center.align-items-center 
@@ -432,19 +432,19 @@
           ul.lista-ul.mb-3
             li.mb-0
               i.fas.fa-circle(style="color:#33ECE0")
-              | <strong>Códigos QR:</strong> permiten a los clientes escanear y acceder directamente a la cuenta de WhatsApp Business de la empresa.
+              p.mb-0 <strong>Códigos QR:</strong> permiten a los clientes escanear y acceder directamente a la cuenta de WhatsApp Business de la empresa.
             li.mb-0
               i.fas.fa-circle(style="color:#33ECE0")
-              | <strong>Enlaces directos:</strong> ofrecen una vía rápida y directa para que los usuarios accedan a la plataforma de WhatsApp Business. Botones de llamado a la acción desde Facebook, Instagram y tiendas de aplicaciones: facilitan la interacción directa desde otras plataformas populares.
+              p.mb-0 <strong>Enlaces directos:</strong> ofrecen una vía rápida y directa para que los usuarios accedan a la plataforma de WhatsApp Business. Botones de llamado a la acción desde Facebook, Instagram y tiendas de aplicaciones: facilitan la interacción directa desde otras plataformas populares.
             li.mb-0
               i.fas.fa-circle(style="color:#33ECE0")
-              | <strong>Anuncios meta:</strong> transforman una publicación en un mensaje directo en WhatsApp, proporcionando una forma efectiva de iniciar conversaciones.
+              p.mb-0 <strong>Anuncios meta:</strong> transforman una publicación en un mensaje directo en WhatsApp, proporcionando una forma efectiva de iniciar conversaciones.
             li.mb-0
               i.fas.fa-circle(style="color:#33ECE0")
-              | <strong>Anuncios de llamada a la acción:</strong> diseñados para motivar a los usuarios a interactuar de manera activa con la marca.
+              p.mb-0 <strong>Anuncios de llamada a la acción:</strong> diseñados para motivar a los usuarios a interactuar de manera activa con la marca.
             li.mb-0
               i.fas.fa-circle(style="color:#33ECE0")
-              | <strong>Anuncios de clic a WhatsApp:</strong> conectan a los clientes potenciales presentes en plataformas como WhatsApp e Instagram, mostrando a aquellos usuarios más propensos a entablar una conversación con la marca o empresa.
+              p.mb-0 <strong>Anuncios de clic a WhatsApp:</strong> conectan a los clientes potenciales presentes en plataformas como WhatsApp e Instagram, mostrando a aquellos usuarios más propensos a entablar una conversación con la marca o empresa.
             
     p.mb-5 Estos recursos estratégicos no solo facilitan la comunicación, sino que también ofrecen oportunidades valiosas para que las empresas amplíen su alcance, mejoren la interacción con los clientes y fortalezcan su presencia en línea.
     
@@ -468,25 +468,25 @@
         ul.lista-ul.mb-3
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <strong>Aumentar el reconocimiento de la marca:</strong> utilizando estas plataformas para consolidar la presencia de su marca y aumentar la visibilidad entre los usuarios.
+            p.mb-0 <strong>Aumentar el reconocimiento de la marca:</strong> utilizando estas plataformas para consolidar la presencia de su marca y aumentar la visibilidad entre los usuarios.
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <strong>Promocionar su negocio local:</strong> aprovechando la geolocalización y las herramientas de promoción local para llegar a clientes en áreas específicas.
+            p.mb-0 <strong>Promocionar su negocio local:</strong> aprovechando la geolocalización y las herramientas de promoción local para llegar a clientes en áreas específicas.
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <strong>Incrementar las ventas <em>online:</em></strong> utilizando las funciones de comercio electrónico y promociones para impulsar las ventas a través de estas plataformas.
+            p.mb-0 <strong>Incrementar las ventas <em>online:</em></strong> utilizando las funciones de comercio electrónico y promociones para impulsar las ventas a través de estas plataformas.
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <strong>Promocionar su App:</strong> utilizando las redes sociales como un canal para dar a conocer y promocionar aplicaciones.
+            p.mb-0 <strong>Promocionar su App:</strong> utilizando las redes sociales como un canal para dar a conocer y promocionar aplicaciones.
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <strong>Generar clientes potenciales:</strong> utilizando estrategias de <em>marketing</em> para atraer y retener a nuevos clientes interesados en los productos o servicios ofrecidos.
+            p.mb-0 <strong>Generar clientes potenciales:</strong> utilizando estrategias de <em>marketing</em> para atraer y retener a nuevos clientes interesados en los productos o servicios ofrecidos.
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <strong>Monetizar el contenido:</strong> aprovechando las oportunidades de generar ingresos a través de contenido patrocinado, colaboraciones o ventas directas.
+            p.mb-0 <strong>Monetizar el contenido:</strong> aprovechando las oportunidades de generar ingresos a través de contenido patrocinado, colaboraciones o ventas directas.
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <strong>Redirigir a los clientes actuales:</strong> utilizando estas plataformas para mantener a los clientes actuales informados, comprometidos y redirigirlos a nuevas ofertas o productos.
+            p.mb-0 <strong>Redirigir a los clientes actuales:</strong> utilizando estas plataformas para mantener a los clientes actuales informados, comprometidos y redirigirlos a nuevas ofertas o productos.
 
     p.mb-5 Estos objetivos reflejan la versatilidad de estas plataformas sociales como herramientas estratégicas para diversos propósitos comerciales, desde el fortalecimiento de la marca hasta la generación de ingresos y la gestión de la relación con el cliente. Por tal razón Instagram ofrece a las empresas las siguientes herramientas: 
 
@@ -521,13 +521,13 @@
                 | Anuncios con video.
               li.mb-0
                 i.fas.fa-circle(style="color:#000")
-                | <strong>Anuncios por secuencia:</strong> permite crear un anuncio con una serie de fotos para dar más contenido al mismo anuncio.
+                p.mb-0 <strong>Anuncios por secuencia:</strong> permite crear un anuncio con una serie de fotos para dar más contenido al mismo anuncio.
               li.mb-0
                 i.fas.fa-circle(style="color:#000")
-                | <strong>Anuncios de Instagram stories:</strong> permiten la acción del usuario y el llamado a la acción como la redirección a la página web, a WhatsApp, mensaje al directo o la visita al perfil de la marca en Instagram.
+                p.mb-0 <strong>Anuncios de Instagram stories:</strong> permiten la acción del usuario y el llamado a la acción como la redirección a la página #[em web], a WhatsApp, mensaje al directo o la visita al perfil de la marca en Instagram.
               li.mb-0
                 i.fas.fa-circle(style="color:#000")
-                | <strong>Anuncios en la sección de explorar:</strong> Instagram posee una opción de búsqueda en la cual aparecen estos anuncios de sección de explorar, con el objetivo de que los usuarios expandan sus intereses y encuentren nuevo contenido. 
+                p.mb-0 <strong>Anuncios en la sección de explorar:</strong> Instagram posee una opción de búsqueda en la cual aparecen estos anuncios de sección de explorar, con el objetivo de que los usuarios expandan sus intereses y encuentren nuevo contenido. 
 
           .col-md-6.col-ipad
             figure
@@ -548,13 +548,13 @@
             ul.lista-ul.mb-3
               li.mb-0
                 i.fas.fa-circle(style="color:#000")
-                | <strong>App de Instagram:</strong> se escoge la publicación que se quiere promocionar, se utilizan las herramientas anteriores y se empieza el seguimiento de la circulación del anuncio.
+                p.mb-0 <strong>App de Instagram:</strong> se escoge la publicación que se quiere promocionar, se utilizan las herramientas anteriores y se empieza el seguimiento de la circulación del anuncio.
               li.mb-0
                 i.fas.fa-circle(style="color:#000")
-                | <strong>Administrador de anuncios:</strong> permite modificar, configurar y consultar la información, este recurso se encuentra disponible para celulares y PC.
+                p.mb-0 <strong>Administrador de anuncios:</strong> permite modificar, configurar y consultar la información, este recurso se encuentra disponible para celulares y PC.
               li.mb-0
                 i.fas.fa-circle(style="color:#000")
-                | <strong>Socios de Instagram:</strong> realizan toda la gestión de los anuncios (compra, creación y entrega de contenido), Instagram verifica que los socios sean idóneos para la gestión de los anuncios. 
+                p.mb-0 <strong>Socios de Instagram:</strong> realizan toda la gestión de los anuncios (compra, creación y entrega de contenido), Instagram verifica que los socios sean idóneos para la gestión de los anuncios. 
           
           .col-md-6.col-ipad
             figure
@@ -808,16 +808,16 @@
         ul.lista-ul.mb-3
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <em>Social media marketing.</em>
+            p.mb-0 <em>Social media marketing.</em>
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <em>Web 2.0.</em>
+            p.mb-0 <em>Web 2.0.</em>
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <em>Fanpage.</em>
+            p.mb-0 <em>Fanpage.</em>
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <em>Engagement.</em>
+            p.mb-0 <em>Engagement.</em>
         p El ROI <em>(Return on investment)</em> y el ROAS <em>(Return On Advertising Spend)</em> son métricas de cálculo matemático que le permitirá a la entidad calcular el retorno de la inversión, los canales de comunicación más eficaces, el seguimiento al proceso de ventas, la entrada de dinero más fuerte de la entidad, entre otros.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -944,11 +944,11 @@
         ul.lista-ul.mb-3
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <strong><em>Keepcon:</em></strong> permite el análisis del contenido creado y la clasificación de acuerdo con el objetivo, así como la moderación del contenido complementado por el moderador humano.
+            p.mb-0 <strong><em>Keepcon:</em></strong> permite el análisis del contenido creado y la clasificación de acuerdo con el objetivo, así como la moderación del contenido complementado por el moderador humano.
           br
           li.mb-0
             i.fas.fa-circle(style="color:#33ECE0")
-            | <strong><em>Stilus forum:</em></strong> filtra automáticamente los mensajes de acuerdo con la clasificación de contenido, basa su funcionamiento en el <em>business intelligence.</em>
+            p.mb-0 <strong><em>Stilus forum:</em></strong> filtra automáticamente los mensajes de acuerdo con la clasificación de contenido, basa su funcionamiento en el <em>business intelligence.</em>
 
     p.mb-5 Las plataformas de redes sociales proporcionan métricas internas que son fundamentales para evaluar el rendimiento de las campañas publicitarias directamente dentro de la aplicación. Estas métricas ofrecen <em>insights</em> valiosos sobre cómo interactúan los usuarios con el contenido, la efectividad de la publicidad y el impacto general en la audiencia. Algunas de las métricas comunes que brindan estas plataformas incluyen:
 
@@ -1012,7 +1012,7 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-10.col-md-10.col-lg-12(data-aos="fade-right", alt="En la tabla 3 se muestra la evidencia para los posts en las estadísticas ofrecidas por Facebook.")
             .titulo-sexto.color-acento-contenido
-              p.titulo.pb-0.mb-0 #[b Tabla 3.] <em>¿Qué se evidencia para los posts en las estadísticas ofrecidas por Facebook ?</em>
+              p.titulo.pb-0.mb-0 #[b Tabla 3.] <em>¿Qué se evidencia para los posts en las estadísticas ofrecidas por Facebook?</em>
             .tabla-a.color-acento-contenido
               table
                 thead
@@ -1132,7 +1132,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-12(data-aos="fade-right", alt="En la tabla 5 se muestran las estadísticas se pueden visualizar en las historias de Instagram.")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Tabla 5.] <em>¿Qué estadísticas se pueden visualizar en las historias de Instagram ?</em>
+          p.titulo.pb-0.mb-0 #[b Tabla 5.] <em>¿Qué estadísticas se pueden visualizar en las historias de Instagram?</em>
         .tabla-a.color-acento-contenido
           table
             thead
@@ -1281,13 +1281,13 @@
                   ol.lista-ol
                     li 
                       span.text-bold f. 
-                      | <em>Ebooks.</em>
+                      p.mb-0 <em>Ebooks.</em>
                     li 
                       span.text-bold g. 
                       | Noticias.
                     li 
                       span.text-bold h. 
-                      | <em>Blog.</em>
+                      p.mb-0 <em>Blog.</em>
                     li 
                       span.text-bold i. 
                       | Debates.

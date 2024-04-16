@@ -128,7 +128,7 @@
                   | Influencia y presencia activa en las redes sociales.
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
-                  | <em>Brand advocates:</em> tienen afinidad con el contenido de la marca y promocionan activamente la marca.
+                  p.mb-0 <em>Brand advocates:</em> tienen afinidad con el contenido de la marca y promocionan activamente la marca.
 
             .col-md-3
               figure

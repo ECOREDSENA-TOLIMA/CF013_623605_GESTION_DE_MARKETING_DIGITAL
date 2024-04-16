@@ -220,7 +220,6 @@ export default {
     {
       referencia:
         'Alcalá, M. (2009). La comunicación y la interacción en contextos virtuales de aprendizaje. Apertura, 1(1).',
-      link: '',
     },
     {
       referencia:
@@ -236,7 +235,6 @@ export default {
     {
       referencia:
         'Roa, S. (2020). Estrategias de comunicación y comunidades virtuales: Evaluación y análisis de sitios web de educación medioambiental en Colombia, Costa Rica y Brasil (Tesis doctoral). Universitat Ramon Llull.',
-      link: '',
     },
     {
       referencia:
